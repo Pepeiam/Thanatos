@@ -1,5 +1,5 @@
 # Thanatos BOT
-<img width="700" height="495" align="center" style="float: left; margin: 0 10px 0 0;" alt="Thanatos Logo" src="https://github.com/Pulho/Thanatos/blob/master/ThanatosLOGO.png">
+<img width="537" height="559" align="center" style="float: left; margin: 0 10px 0 0;" alt="Thanatos Logo" src="https://github.com/Pulho/Thanatos/blob/master/Logo/RO_Thanatos(SD).png">
 
 # Welcome to Discord BOT name as Thanatos
 
