@@ -1,4 +1,0 @@
-#event.user.name = Printa nome do Usuario
-#event.respond = Responder ao comando
-#event.user.pm = Mensagem no privado
-#bot.mention = Mençao direta do Bot ( Privado )
