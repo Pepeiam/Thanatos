@@ -5,7 +5,7 @@ require 'opus-ruby'
 require 'ffi'
 require 'youtube-dl'
 
-bot = Discordrb::Commands::CommandBot.new token:'NDA4NjU2ODk2NDk3NTQ5MzEy.DVTO7w.3SKVdlK6_1OLI8Jx0u7-UHIGpFY', client_id:408656896497549312, prefix:'!' #Declaracao do Token, Client_ID e Prefixo usado pelo Bot
+bot = Discordrb::Commands::CommandBot.new token:'', client_id:, prefix:'!' #Declaracao do Token, Client_ID e Prefixo usado pelo Bot
 
 class Pokedex
   $pokemon_name
